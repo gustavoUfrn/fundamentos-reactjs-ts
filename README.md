@@ -9,10 +9,10 @@ Node need package manager and to do so we use **Npm**.
 "Fundamentos-reactjs-ts" is used to learn the beginners concepts about react, and ts, such as, jsx, tsx, state, components, props, css modules, events,
 rendering, folder structure and other concepts.
 
-#Jsx
+# Jsx
 
 Jsx is short for Javascript XML, allows us to write XML in JS, that means HTML transforms in valid JS.
 
-#Tsx
+# Tsx
 
 Tsx is similar to Jsx, but uses Typescript instead of Javascript.
